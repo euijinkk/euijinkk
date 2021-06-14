@@ -17,8 +17,12 @@
 <img src="https://img.shields.io/badge/react-61DAFB?style=flat-square&logo=react&logoColor=black">
 </br></br>
 <img src="https://img.shields.io/badge/-euijinkk97@gmail.com-EA4335?style=flat-square&logo=gmail&logoColor=white">
-<img src="https://img.shields.io/badge/-NaverBlog-brightgreen?style=flat-square&logo=Naver&logoColor=white&link=https://blog.naver.com/gytks4">
-<img src="https://img.shields.io/badge/-Instagram-purple?style=flat-square&logo=Instagram&link=https://www.instagram.com/euijin.kk/">
+<a href="https://blog.naver.com/gytks4">
+<img src="https://img.shields.io/badge/-NaverBlog-brightgreen?style=flat-square&logo=Naver&logoColor=white">
+  </a>
+ <a href="https://www.instagram.com/euijin.kk">
+<img src="https://img.shields.io/badge/-Instagram-purple?style=flat-square&logo=Instagram">
+  </a>
 
 
 
