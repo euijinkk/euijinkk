@@ -1,7 +1,6 @@
-<h1 align="center">김의진 (KIM EUIJIN)</h1>
-
+<h1 align="center">김의진 (Sisyphe)</h1>
+<br/>
 <div align="center" style="color: gray"><strong>🌕 창조하는 즐거움 + 선한 영향력 === 개발</strong></div>
-
 
 <br/>
 <div align="center">
