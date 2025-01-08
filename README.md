@@ -1,6 +1,6 @@
-<h1 align="left">김의진 (Sisyphe) 👋</h1>
+<h1 align="left">Euijin (Sisyphe) 👋</h1>
 
-🔭 I’m currently working on Viva Republica (Toss)
+🔭 Software Engineer, Educator, Writer
 
 <a href="https://happysisyphe.tistory.com/">
   <img alt="Tistory" src ="https://img.shields.io/badge/Tistory-white.svg?&style=for-the-badge"/>
