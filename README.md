@@ -13,7 +13,7 @@
   Tech blog
 </a>
  / 
-<a href="https://happysisyphe.tistory.com/">
+<a href="https://brunch.co.kr/@happy-sisyphe">
   Brunch
 </a>
 
