@@ -9,13 +9,19 @@
 
 <br>
 
-<a href="https://happysisyphe.tistory.com/">
+<a href="https://happysisyphe.tistory.com/" target="_blank">
   Tech blog
 </a>
  / 
-<a href="https://brunch.co.kr/@happy-sisyphe">
+<a href="https://brunch.co.kr/@happy-sisyphe" target="_blank">
   Brunch
 </a>
+ / 
+<a href="https://www.linkedin.com/in/euijinkk/" target="_blank">
+  LinkedIn
+</a>
+
+
 
 
 <!--
