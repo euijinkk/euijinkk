@@ -2,12 +2,29 @@
 
 🔭 Software Engineer, Educator, Writer
 
+<br>
+
+- 우아한형제들, 우아한테크코스 웹 프론트엔드 코치, 2025-01 ~ Now
+- Viva Republica(Toss), Frontend Developer, 2022-12 ~ 2024-12
+
+<br>
+
+<a href="https://happysisyphe.tistory.com/">
+  Tech blog
+</a>
+ / 
+<a href="https://happysisyphe.tistory.com/">
+  Brunch
+</a>
+
+
+<!--
+**euijinkk/euijinkk** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+
 <a href="https://happysisyphe.tistory.com/">
   <img alt="Tistory" src ="https://img.shields.io/badge/Tistory-white.svg?&style=for-the-badge"/>
 </a>
 
-<!--
-**euijinkk/euijinkk** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
 
